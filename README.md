@@ -1,15 +1,12 @@
  # 👋 Hey there! I’m Indy (She/her)
-       Blockchain Developer | Systems Engineer | Mechanical Engineer
-
-### 📫 How to reach me?
-      💞️ Discord: @krypticlady#3009
-      💞️ Twitter: @krypticlady
-      💞️ Telegram: @krypticlady
+       Systems Engineer -> Becoming an AI Engineer
       
 ### My Experience
-      ✨ Smart Contract Engineer | Blockchain Dev: Rust, Solidity, Hardhat, Truffle, ethers.js, web3.js, OpenZeppelin Libraries
-      ✨ Systems Engineer: SysML, V-model, IBM Rhapsody & DOORs
-      ✨ Mechanical Engineer: Over 5+ years of experience in SolidWorks, Inventor, AutoCAD, Maestro
+      ✨ Systems Engineer / MBSE: SysML, V-model, Cameo, MBSE, IBM Rhapsody & DOORs
+      ✨ AI Engineer: Learning Python, PyTorch, RAG, Rest APIs, AWS, LLM APIs, SQL
+
+ ### 📫 How to reach me?
+      💞️ Twitter: @krypticlady
      
 ### My Stats
 ![](https://raw.githubusercontent.com/aidnii/github-user-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/aidnii/github-user-stats/master/generated/languages.svg#gh-dark-mode-only)
